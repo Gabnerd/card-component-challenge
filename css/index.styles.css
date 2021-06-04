@@ -26,7 +26,7 @@
     overflow: hidden;
     border-radius: 5px;
     display: flex;
-    width: 75vw;
+    width: fit-content;
     height: 65%;
     background-color: var(--dark-desaturated-blue);
 }
@@ -38,6 +38,7 @@
     height: auto;
     background-blend-mode: overlay;
     min-width: 50%;
+    display: block;
 }
 
 .text-div{
