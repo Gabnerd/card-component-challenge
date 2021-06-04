@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://gabnerd.github.io/card-component-challenge/)
+- Live Site URL: [https://gabnerd.github.io/card-component-challenge](https://gabnerd.github.io/card-component-challenge/)
 
 ## My process
 
